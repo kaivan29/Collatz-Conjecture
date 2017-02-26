@@ -1,0 +1,12 @@
+# http://git-scm.com/docs/gitignore/
+
+*.gcda
+*.gcno
+*.gcov
+README
+README.md
+Doxyfile
+Doxyfile.bak
+collatz-overflows
+acceptance-test-generator.py
+collatz-tests/

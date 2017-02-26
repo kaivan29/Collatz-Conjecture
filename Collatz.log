@@ -1,0 +1,198 @@
+commit 5c04ae87295e6dc1b0c1a9b15d0e6689240a8a7b
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 17:50:16 2015 -0500
+
+    change
+
+commit 5c29b93b0bb87927fb4a44085fcd401243895385
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 17:43:42 2015 -0500
+
+    changes
+
+commit 0f305eaa5f2a75605ffc7642f7a82be35a943af8
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 17:41:15 2015 -0500
+
+    removing collatz-tests folder
+
+commit f0ab32ea96e2d1bb86b50670de3c2971b68f07c7
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 17:40:28 2015 -0500
+
+    removing collatz-tests folder
+
+commit 9112f8a23510fe51cfb529ed9320211c4cb5f8a4
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 17:35:23 2015 -0500
+
+    hi
+
+commit 693f0eb6e89d7219bd11288ac8964e6f482803ca
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 13:31:03 2015 -0500
+
+    last change
+
+commit 8782cc398b8460c9e3a6ddd2eb908d27550efa75
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 13:18:52 2015 -0500
+
+    trying to make travis build run
+
+commit c07b1cc768e33a24005520f9519acc12a6949fc4
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 13:03:18 2015 -0500
+
+    few changes
+
+commit fa477f7481ef762a777fbb62bf81872f8f88ebf1
+Merge: 70f444e b166531
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 13:01:03 2015 -0500
+
+    Merge branch 'dev' of https://github.com/kaivan29/cs371p-collatz into dev
+
+commit 70f444e3491a8bfc50fa7170fa59853b1045645d
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:59:44 2015 -0500
+
+    fixed #18. Collatz.log created with atleast 5 commits. Close
+
+commit b16653126ec6f07e72de0cdf33816508933b7f43
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:55:45 2015 -0500
+
+    Delete collatz-overflows
+
+commit 14af93641312d1879a13b941737a8c04686452a2
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:55:27 2015 -0500
+
+    Delete acceptance-test-generator.py
+
+commit 8395f75036b4d827353c8d5aac3904328a080528
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:55:05 2015 -0500
+
+    Delete TestCollatz.tmp
+
+commit d60ca7d81981616179c36b35a75f5a5bab94810d
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:54:31 2015 -0500
+
+    Delete RunCollatz.tmp
+    
+    Submission req does not require this file
+
+commit c427534ba01832738815b956b483bc51c198a601
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:53:43 2015 -0500
+
+    Delete Doxyfile.bak
+    
+    Submission req does not require this file
+
+commit e217dffc3e5da77d5c7e431e0238e531c48c1ea2
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:48:40 2015 -0500
+
+    Delete Doxyfile
+    
+    Not needed in submission req
+
+commit aa729249efccb4a7e54a5689eb6957a011547f67
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:46:33 2015 -0500
+
+    final touches
+
+commit 5cb54f1702b78d62ef63bc4af445ddc9da448dfa
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:40:37 2015 -0500
+
+    Delete README.md
+
+commit fd280c5a63b82da41ee4ddc015389783239762a6
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:40:23 2015 -0500
+
+    Delete README
+
+commit 83e796c6f181699f1b627ebf65f6fabf03df4c80
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 10 12:39:06 2015 -0500
+
+    final touches
+
+commit ef56d1be262b34ba668cab0a5eff13dda9465db5
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Wed Sep 9 19:36:26 2015 -0500
+
+    fixed #16 #17 Cache Implemented using ifdef. Submitted sphere online and got a time of 0.02s. Fixed the problem and got time as 0.00s
+
+commit bdbe3b8765ed5a1cd5e237cb6a98236cdcaf9a73
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 8 15:01:30 2015 -0500
+
+    Delete a.out
+
+commit 0ade569cf536667431daf83335a22c7880d6251a
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 8 15:01:21 2015 -0500
+
+    Delete .nfs00000000049a8b9500000a7e
+
+commit fdbce4261c53b4c10681f7e2320dbf80e1eca8c9
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 8 15:00:40 2015 -0500
+
+    fixed #15 #14 ran successfully on sphere
+
+commit 3cd6cfc7310848a2661e4149e5b85ae14b6585ea
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Fri Sep 4 16:09:08 2015 -0500
+
+    fixed #13 Simplest possible solution
+
+commit 501b06c829476db550eefdd1cfc10d1b69f5be63
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Fri Sep 4 15:02:43 2015 -0500
+
+    fixed #12 added 4 more unit test cases such that total is 12 bringing average 3 each for 4 functions. Test case were run and failures were confirmed
+
+commit 837ce0e64a236c8931d3ff81f232a2d32b29bb5d
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 3 19:38:04 2015 -0500
+
+    fixed #11 Confirming expected failures
+
+commit aa0a9098f1c26c6e948700f84175ca7d97f00d80
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 3 18:40:03 2015 -0500
+
+    fixed #10 now check travis
+
+commit 6910c4eb7cab6e68a6986ca1177d6fe9cada3d25
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Thu Sep 3 18:17:48 2015 -0500
+
+    RunCollatz.c++ and TestCollatz.c++ compiled successfully
+
+commit 53847d2bcacd7acf6acb7dfc8c636f46f0c20b6e
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 1 21:27:16 2015 -0500
+
+    final change
+
+commit 2220124f2094cff02928e5c959de58792b62a37f
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 1 21:26:29 2015 -0500
+
+    collatz
+
+commit a88254f4b48012b2e790b489cdbb39ca4dbb498a
+Author: Kaivan Shah <kaivan29@tamu.edu>
+Date:   Tue Sep 1 19:54:17 2015 -0500
+
+    Initial commit
